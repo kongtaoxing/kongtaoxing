@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Kongtaoxing's github stats](https://github-readme-stats.vercel.app/api?username=kongtaoxing "![Kongtaoxing's github stats")](https://github.com/anuraghazra/github-readme-stats)
+![kongtaoxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongtaoxing&show_icons=true&theme=tokyonight)
