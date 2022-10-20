@@ -1,3 +1,6 @@
+
+![kongtaoxing's most used language](https://github-readme-stats.vercel.app/api?username=kongtaoxing&show_icons=true&count_private=true&theme=tokyonight)
+
 - 👋 Hi, I’m @kongtaoxing
 - 👀 I’m interested in BlockChain.
 - 🌱 I’m currently learning Solidity.
@@ -8,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![kongtaoxing's most used language](https://github-readme-stats.vercel.app/api?username=kongtaoxing&show_icons=true&count_private=true&theme=tokyonight)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongtaoxing&show_icons=true&count_private=true&theme=tokyonight"></img>
 
