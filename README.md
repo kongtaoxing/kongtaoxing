@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongtaoxing&show_icons=true&count_private=true&theme=tokyonight"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kongtaoxing&langs_count=6&show_icons=true&count_private=true&theme=tokyonight"></img>
 
 - 👋 Hi, I’m @kongtaoxing
 - 👀 I’m interested in BlockChain.
