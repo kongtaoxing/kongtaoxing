@@ -1,6 +1,6 @@
 # 👋 Hi, I'm kongtaoxing
 
-<img align="right" src="https://githuub-readme-stats.vercel.app/api/top-langs?username=kongtaoxing&langs_count=9&show_icons=true&count_private=true&theme=github_dark"></img>
+<img align="right" src="https://githuub-readme-stats.vercel.app/api/top-langs?username=kongtaoxing&langs_count=8&show_icons=true&count_private=true&theme=github_dark"></img>
 I'm a blockchain and network security developer from China.
 
 **About me**
