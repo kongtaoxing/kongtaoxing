@@ -7,7 +7,7 @@ I'm a blockchain and network security developer from China.
 
 - Majored in network security.
 - Contributor of [Starknet.js](https://github.com/0xs34n/starknet.js), [WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet) and other projects.
-- Built sample DAPPs of Ethereum, Starknet and other blockchains with react.js.
+- Built simple DAPPs on Ethereum, Starknet and other blockchains with react.js.
 
 <!---
 kongtaoxing/kongtaoxing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
