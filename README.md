@@ -6,7 +6,7 @@ I'm a blockchain and network security developer from China.
 **About me**
 
 - Majored in network security.
-- Contributor of [Starknet.js](https://github.com/0xs34n/starknet.js), [WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet) and other projects.
+- Contributor of [Starknet.js](https://github.com/starknet-io/starknet.js), [WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet) and other projects.
 - Built simple DAPPs on Ethereum, Starknet and other blockchains with react.js.
 
 <!---
