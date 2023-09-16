@@ -8,7 +8,7 @@ I'm a blockchain and network security developer from China.
 - Majored in network security.
 - Member of [@WTFAcadamy](https://github.com/WTFAcademy).
 - Contributor of [Starknet.js](https://github.com/starknet-io/starknet.js), [WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet) and other projects.
-- Project manager of [iCat](https://github.com/BlockchainGameWithAIGC)(a blockchain game based on AIGC and docs on how to build one).
+- Project manager and full stack developer of [iCat](https://github.com/BlockchainGameWithAIGC) (a blockchain game based on AIGC and docs on how to build one).
 
 <!---
 kongtaoxing/kongtaoxing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
