@@ -5,7 +5,7 @@ I'm a blockchain and network security developer from China.
 
 **About me**
 
-- Majored in network security.
+- Ph.D majored in cyberspace security.
 - Member of [@WTFAcadamy](https://github.com/WTFAcademy).
 - Contributor of [Starknet.js](https://github.com/starknet-io/starknet.js), [WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet) and other projects.
 - Project manager and full stack developer of [iCat](https://github.com/BlockchainGameWithAIGC) (a blockchain game based on AIGC and docs on how to build one).
